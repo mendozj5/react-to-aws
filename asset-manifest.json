@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mendozj5/react-to-aws/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mendozj5/react-to-aws/static/js/main.32d04d6a.chunk.js",
-    "main.js.map": "/mendozj5/react-to-aws/static/js/main.32d04d6a.chunk.js.map",
-    "runtime-main.js": "/mendozj5/react-to-aws/static/js/runtime-main.9271b8ea.js",
-    "runtime-main.js.map": "/mendozj5/react-to-aws/static/js/runtime-main.9271b8ea.js.map",
-    "static/js/2.d6a59dfe.chunk.js": "/mendozj5/react-to-aws/static/js/2.d6a59dfe.chunk.js",
-    "static/js/2.d6a59dfe.chunk.js.map": "/mendozj5/react-to-aws/static/js/2.d6a59dfe.chunk.js.map",
-    "index.html": "/mendozj5/react-to-aws/index.html",
-    "precache-manifest.6ebf3391ccf425a58fd535bc971e9af8.js": "/mendozj5/react-to-aws/precache-manifest.6ebf3391ccf425a58fd535bc971e9af8.js",
-    "service-worker.js": "/mendozj5/react-to-aws/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mendozj5/react-to-aws/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d6a59dfe.chunk.js.LICENSE.txt": "/mendozj5/react-to-aws/static/js/2.d6a59dfe.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mendozj5/react-to-aws/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-to-aws/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-to-aws/static/js/main.568f76a7.chunk.js",
+    "main.js.map": "/react-to-aws/static/js/main.568f76a7.chunk.js.map",
+    "runtime-main.js": "/react-to-aws/static/js/runtime-main.77cc159b.js",
+    "runtime-main.js.map": "/react-to-aws/static/js/runtime-main.77cc159b.js.map",
+    "static/js/2.d6a59dfe.chunk.js": "/react-to-aws/static/js/2.d6a59dfe.chunk.js",
+    "static/js/2.d6a59dfe.chunk.js.map": "/react-to-aws/static/js/2.d6a59dfe.chunk.js.map",
+    "index.html": "/react-to-aws/index.html",
+    "precache-manifest.fcb727280a00a572dbf9a332d06b42dc.js": "/react-to-aws/precache-manifest.fcb727280a00a572dbf9a332d06b42dc.js",
+    "service-worker.js": "/react-to-aws/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-to-aws/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d6a59dfe.chunk.js.LICENSE.txt": "/react-to-aws/static/js/2.d6a59dfe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-to-aws/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9271b8ea.js",
+    "static/js/runtime-main.77cc159b.js",
     "static/js/2.d6a59dfe.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.32d04d6a.chunk.js"
+    "static/js/main.568f76a7.chunk.js"
   ]
 }
